@@ -49,4 +49,3 @@ This is a simple Python application built using **Tkinter** for the graphical us
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
