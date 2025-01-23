@@ -1,5 +1,5 @@
 
-```markdown
+
 # Secret Notes Application
 
 This is a simple Python application built using **Tkinter** for the graphical user interface (GUI), and **cryptography** for secure encryption and decryption of notes. The application allows users to enter a title, secret message, and a master key, which are then encrypted and saved into a file. Users can later decrypt the message by providing the correct master key.
@@ -50,4 +50,3 @@ This is a simple Python application built using **Tkinter** for the graphical us
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
